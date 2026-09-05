@@ -29,7 +29,7 @@ const client = new Client({
     ]
 });
 
-const TOKEN = 'MTU0MDQ4NjQyNDc3OTAzMDY1OQ.GM-L7n.Vjz11jgSy4wajzNsn55q0loQalzCSPmxuxmpd8';
+const TOKEN = 'here';
 const PREFIX = '!';
 
 const serverData = new Map();
